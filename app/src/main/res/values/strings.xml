@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Midterm_GurjotKaurGill</string>
+    <string name="enter_product_name">Enter product name</string>
+    <string name="photo_button_text">TAKE A PHOTO</string>
+    <string name="saveBtn">SAVE</string>
+    <string name="camera_image_desc">Image from camera</string>
+    <string name="productDesc">Product image</string>
+    <string name="home_sceen">Home Sceen</string>
+    <string name="products_list">Products List</string>
+</resources>
